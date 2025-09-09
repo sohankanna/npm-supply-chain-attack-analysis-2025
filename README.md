@@ -13,7 +13,7 @@ This repository contains a detailed analysis and the deobfuscated source code fo
 The payload was a sophisticated, client-side malware designed to steal cryptocurrency from the users of websites that bundled these compromised packages.
 
 This analysis is a companion to my detailed article on Medium:
-**[Urgent: Massive NPM Supply Chain Attack - A Technical Deep Dive](https://your-medium-article-link-here)**
+**[How One Phishing Email Injected Crypto-Stealing Malware into Billions of NPM Downloads](https://medium.com/@sohankanna/how-one-phishing-email-injected-crypto-stealing-malware-into-billions-of-npm-downloads-0aa0ecd2ae56)**
 
 ---
 
